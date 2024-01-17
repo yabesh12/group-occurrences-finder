@@ -36,5 +36,5 @@ The script is designed to process an Excel file with a specific column containin
 
 
 ## Note
-Retrieve the input file at runtime
+Retrieve the input file at runtime,  
 Default identifier pattern is - ```[code]<I>XXXX</I>[/code]```
