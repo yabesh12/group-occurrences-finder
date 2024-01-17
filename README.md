@@ -31,7 +31,7 @@ The script is designed to process an Excel file with a specific column containin
 
 5. **Run the script:**
     ```bash
-    python group_occurrences_specific_pattern_runtime.py
+    python find_group_occurrences_by_specific_pattern.py
 
 
 
