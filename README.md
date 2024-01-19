@@ -11,7 +11,7 @@ The script is designed to process an Excel file with a specific column containin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/yabesh12/group-occurrences-finder
 
 
 2. **Create Virtualenv:**
